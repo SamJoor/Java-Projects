@@ -1,7 +1,7 @@
 # Java-Projects
-Java Projects I have done
+Java Projects I have done:
 
-BarberShop
+BarberShop: The BaberShop program 
 
 Sorting
 
